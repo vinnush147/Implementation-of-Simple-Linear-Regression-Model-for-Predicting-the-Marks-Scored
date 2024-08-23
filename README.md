@@ -87,10 +87,12 @@ print("RMSE= ",rmse)
 ![WhatsApp Image 2024-08-23 at 07 47 27_b0ea79c3](https://github.com/user-attachments/assets/ebeb8151-0af9-4006-92fe-b5def1219fd4)
 
 ## Training Set:
-![WhatsApp Image 2024-08-23 at 07 47 37_b3c3d3e3](https://github.com/user-attachments/assets/7c155d8d-c8b2-4e96-9ac9-1cab216b0ac7)
+![WhatsApp Image 2024-08-23 at 08 27 51_a07117b1](https://github.com/user-attachments/assets/e7c241e6-ffc5-4f13-aa2a-9393f626ca55)
+
 
 ## Testing Set:
-![WhatsApp Image 2024-08-23 at 07 47 42_adef6174](https://github.com/user-attachments/assets/4a005d24-8aaf-49a4-b73d-01872195940f)
+![WhatsApp Image 2024-08-23 at 08 27 55_a36ea381](https://github.com/user-attachments/assets/bfcce3da-1158-4135-93a2-cf6dc515cc78)
+
 
 
 
