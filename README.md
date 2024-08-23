@@ -82,7 +82,7 @@ print("RMSE= ",rmse)
 ## X and Y values:
 ![WhatsApp Image 2024-08-23 at 07 47 14_52aeb27b](https://github.com/user-attachments/assets/c4f8f35d-d2cf-4487-881d-c96eba32cbb4)
 
-## Predication values of X and Y:
+## Prediction values of X and Y:
 ![WhatsApp Image 2024-08-23 at 07 47 21_69fc638b](https://github.com/user-attachments/assets/b8345417-268b-4a24-90f5-83de2784b272)
 
 ## MSE,MAE and RMSE:
